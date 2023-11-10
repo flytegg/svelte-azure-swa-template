@@ -1,7 +1,7 @@
 # svelte-azure-swa-template
-This is a template website using SvelteKit which uses the Azure SWA adapter to deploy as an Azure Static Web App. The adapter allows for server side rendering, which is not a traditional feature of an Azure SWA.
+This is a template website using SvelteKit which uses the [Azure SWA adapter](https://github.com/geoffrich/svelte-adapter-azure-swa) to deploy as an [Azure Static Web App](https://azure.microsoft.com/en-gb/products/app-service/static). The adapter allows for server side rendering, which is not a traditional feature of an Azure SWA.
 
-This repository is a Template, so you can easily take it and build your own website.
+This repository is a template, so you can easily take it and build your own website.
 
 ## Azure Setup
 1. Create a Static Web App resource
