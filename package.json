@@ -1,6 +1,9 @@
 {
 	"name": "svelte-azure-swa-template",
 	"version": "0.0.1",
+	"engines": {
+		"node": ">=18.0.0"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
