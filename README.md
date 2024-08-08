@@ -11,3 +11,5 @@ This repository is a template, so you can easily take it and build your own webs
 5. Set the "Build Presets" to SvelteKit, and leave the remaining three boxes as default
 6. Create
 7. Find the website link from within the resource (it may take minutes for the Azure service to create & for the workflow to run)
+
+Build not working? Look for differences in the GH workflow we made on mytenant-dashboard: https://github.com/flytegg/mytenant-dashboard/tree/master
